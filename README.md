@@ -1,4 +1,4 @@
-> :man_technologist:  In a nut(zsh)shell, some Software Engineer, who develops, deploys and open sources around with variable amounts of javascript, python, bash & irony 😉
+> :man_technologist:  In a nut(zsh)shell, a frenchie **Software Engineer**, who develops, deploys and open sources around with variable amounts of javascript, python, zsh & irony 😉
 
 <!-- TODO: Add real TLDR, Software Engineer FIND MOTO punchline -->
 
@@ -6,32 +6,33 @@ Hello there :wave:
 ====================
 <p align="center">🟨 🟥 🟦</p>
 
-Hey, I'm ***Adrien***, a french versatile software engineer living in Paris. :slightly_smiling_face:
+Hey, I'm ***Adrien*** _(\a.dʁi.jɛ̃\)_, a french versatile software engineer living in Paris. :slightly_smiling_face:
 
-et en VO ça donne ceci:
-<!-- 🎯🎯 ADD Photo at list -->
+_et en VO ça donne ceci:_
+<!-- 🎯🎯 ADD Photos at list -->
 
 Coucou, c'est ***Adrien***, un ingénieur logiciel polyvalent vivant sur Paris :fr:
-<!-- MAYBE add phonetic/pronciation, and mention adrian variant or adriean combo
-\a.dʁi.jɛ̃\  -->
-
-🎯🎯🎯🎯🎯
+<!-- MAYBE mention adrian variant or adriean combo-->
 
 <p align="center">🟨<br/>🟥 🟦</p>
 
 Programmatically speaking, I craft code but also do some data, devops, tooling, doc&diagrams and obiously some open source as you can clearly see here. My main languages are javascript, python, and some shell, zsh flavor. I tend to do long sentences as you can also see here, and consider that git *c'est la vie* :light_blue_heart:
+<!-- TODO mention AI dev, and my agent. AdrieanKhisbeAgent -->
 
-As of personality, in two words, I'm an hybrid movie gomer, late show watcher, punchline enthusiast, standup comedian enjoyer, comics reader, craft amator, green thumb , photograph on the fly ... and obviously some gourmand food and drink lover :blue_heart:
+As of personality, in two words, I'm an hybrid movie gooer, late show watcher, punchline enthusiast, standup comedian enjoyer, comics reader, craft amator, green thumb , photograph on the fly ... and obviously some gourmand food and drink lover :blue_heart:
 (having some kind of random memory, it's possible there was some approximation, oversight or leftover  :innocent:)
 <!-- ! MAYBE develop personality/leasures line  -->
 <!-- yes I know, you can read Luke -->
 
-<!-- TODO 🎯🎯 add contact here, maybe hidden formula from there -->
+<!-- Contact: you can reach me at adrien.becchis@gmail.com, use wisely and respectfully -->
 
 <!-- TODO: 🎯🎯 add some custom emoji/gif (diabolo,hello there, roll safe, coyote wink) -->
 <p align="center">🟨 🟧 🟥 🟧 🟨</p>
 
-Aside for being some kind of **expert in procrastination** and **heavy emoji user**, I have some personal project like [diractions](https://github.com/AdrieanKhisbe/diractions) or [zsh-quiet-accept-line](https://github.com/AdrieanKhisbe/zsh-quiet-accept-line) and did some significative contributions to tools I use: :toolbox:
+Aside for being some kind of **expert in procrastination** and **heavy emoji user**, I have some personal project like [diractions](https://github.com/AdrieanKhisbe/diractions) or [zsh-quiet-accept-line](https://github.com/AdrieanKhisbe/zsh-quiet-accept-line)
+Some how them are hosted on the [omni-tools](https://github.com/omni-tools) organisation. (_guess the ref 😇_)
+
+I also did some significative contributions to tools I use: :toolbox:
 
 - ⌨️ [vscode](https://github.com/microsoft/vscode) (the IDE): Considering broader scope for grammar definition flexibilty [vscode#50534](https://github.com/microsoft/vscode/pull/50534)
 - 😉 [vscode-emojisense](https://github.com/mattbierner/vscode-emojisense): Introducing emoji prompt [vscode-emojisense#17](https://github.com/mattbierner/vscode-emojisense/pull/17) (used daily to spread emoji everywhere 😉)
@@ -42,10 +43,12 @@ Aside for being some kind of **expert in procrastination** and **heavy emoji use
 - 📟 [n_](https://github.com/borisdiakur/n_) (node lodash repl): introduce repl commands, customization and update [n_#27](https://github.com/borisdiakur/n_/pull/27), published as 3.0
 - 🧩 [eslint-plugin-json](https://github.com/azeemba/eslint-plugin-json) reworking plugin to make it opt in and configurable [eslint-plugin-json#26](https://github.com/azeemba/eslint-plugin-json/pull/26)
 
+<!-- TODO 🎯 add more recent project -->
+
 <p align="center">🟥 🟧 🟨 🟧 🟥</p>
 
 If ever you dig on my [repos](https://github.com/AdrieanKhisbe?tab=repositories) you might also find some CLIs (like [bundle-phobia-cli](https://github.com/AdrieanKhisbe/bundle-phobia-cli) [velibe](https://github.com/AdrieanKhisbe/velibe)), some good old emacs plugins ([cask-package-toolset.el](https://github.com/AdrieanKhisbe/cask-package-toolset.el) like [omni-control.el](https://github.com/AdrieanKhisbe/omni-control.el) [omni-quotes.el](https://github.com/AdrieanKhisbe/omni-quotes.el) or [omni-kill.el](https://github.com/AdrieanKhisbe/omni-kill.el)).
-I also sat up a lot of CI ages ago most were moved to my archives [GitHub Adriean Khisbe Archives :classical_building:](https://github.com/AdrieanKhisbe?tab=repositories)
+I also sat up a lot of CI ages ago most were moved to my archives [GitHub Adriean Khisbe Archives :classical_building:](https://github.com/AdrieanKhisbe?tab=repositories) as well as some of my former forks
 
 
 <!--
@@ -55,3 +58,5 @@ I also sat up a lot of CI ages ago most were moved to my archives [GitHub Adriea
   // translation cut
 
 -->
+
+<!-- 🧞 generate and maintain table with avatar images -->
